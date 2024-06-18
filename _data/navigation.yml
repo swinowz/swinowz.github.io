@@ -1,0 +1,10 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "CTF Comp 2024"
+    url: /ctf-comp-2024/
+    children:
+      - title: "Challenge 1"
+        url: /ctf-comp-2024/challenge-1/
+      - title: "Challenge 2"
+        url: /ctf-comp-2024/challenge-2/
